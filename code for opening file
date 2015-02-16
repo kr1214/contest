@@ -1,0 +1,4 @@
+#To find out which directory I am on 
+import os
+os.getcwd()
+
